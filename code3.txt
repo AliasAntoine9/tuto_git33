@@ -1,1 +1,3 @@
 Apprendre à utiliser Git
+
+verif du pwd
