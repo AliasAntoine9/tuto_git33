@@ -3,9 +3,12 @@ Apprendre à utiliser Git
 texte = verif du pwd
 
 liste = []
-x = 3
+x = 5
 t = len(texte)
+somme=0
 
 for in range(0,len(t)):
 	x = x + 4
+	somme = x + t + somme
+
 	liste.append(x)
