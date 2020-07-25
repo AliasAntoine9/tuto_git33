@@ -1,10 +1,12 @@
 Apprendre à utiliser Git
 
-texte = verif du pwd
 
 liste = []
 x = 3
 t = len(texte)
+
+#Commentaire de  code
+# deuxième commentaire
 
 for in range(0,len(t)):
 	x = x + 4
