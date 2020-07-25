@@ -1,3 +1,11 @@
 Apprendre à utiliser Git
 
-verif du pwd
+texte = verif du pwd
+
+liste = []
+x = 3
+t = len(texte)
+
+for in range(0,len(t)):
+	x = x + 4
+	liste.append(x)
