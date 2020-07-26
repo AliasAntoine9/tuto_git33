@@ -1,15 +1,10 @@
 Apprendre à utiliser Git
 
 
-liste = []
-x = 5
-t = len(texte)
-somme=0
-
 #Commentaire de  code
 # deuxième commentaire
 
-for in range(0,len(t)):
+for in range(0,len(a)):
 	x = x + 4
 	somme = x + t + somme
 
