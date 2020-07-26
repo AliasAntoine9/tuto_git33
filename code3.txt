@@ -4,8 +4,10 @@ Apprendre à utiliser Git
 #Commentaire de  code
 # deuxième commentaire
 
-for in range(0,len(a)):
+for in range(0,len(t)):
 	x = x + 4
 	somme = x + t + somme
+
+	df = pd.Dataframe({})
 
 	liste.append(x)
