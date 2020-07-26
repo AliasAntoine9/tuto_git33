@@ -4,8 +4,13 @@ Apprendre à utiliser Git
 #Commentaire de  code
 # deuxième commentaire
 
+While(no_conflicts):
+	Je contnue à apprendre Git!
+
 for in range(0,len(a)):
 	x = x + 4
 	somme = x + t + somme
+
+	<JavaType> df = new df;
 
 	liste.append(x)
